@@ -1,0 +1,27 @@
+.section  {
+    background-color: lemonchiffon;
+
+}
+
+.headers {
+    color: darkblue;
+
+}
+
+#email {
+    background-color: goldenrod;
+
+}
+
+#github {
+    background-color: lightsteelblue;
+}
+
+#protfolio{
+    background-color: darkorange;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+}
