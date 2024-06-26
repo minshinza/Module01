@@ -1,18 +1,15 @@
-section {
+ section {
  width: 600px;
  height: 600px;
  text-align: center;
  border: 15px solid black;
 }
     
-image {
+img {
     width: 200px;
     height: 200px;
     background-color: lightblue;
-    margin: 25px;
-    /* border: 5px solid blue; */
-    padding: 20;
-    /* TODO Add a margin porerty */
-    /* TODO: Add a padding property */
-    /* TODO: Add a border property */
+    margin: 26px;
+    padding: 18px;
+    border: solid 5px;
 }
