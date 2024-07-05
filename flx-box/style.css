@@ -1,0 +1,26 @@
+.container {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 20px;
+    gap: 15px;
+    /* box-shadow: 0px 10px yellowgreen; */
+}
+
+.nav-item:first-child {
+    margin-right: auto;
+    margin-left: 20px;
+}
+
+.nav-item  {
+    list-style: none;
+}
+
+.nav-item a {
+    color: lightseagreen;
+    text-decoration: none;
+}
+
+.nav-item a:hover {
+    color: blue;
+}
