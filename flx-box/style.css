@@ -24,3 +24,13 @@
 .nav-item a:hover {
     color: blue;
 }
+
+button:hover{
+    background-color: aquamarine;
+}
+
+@media screen and (max-width: 477px) {
+    .container {
+        flex-direction: column;
+    }
+}
